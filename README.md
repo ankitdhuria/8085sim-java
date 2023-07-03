@@ -7,8 +7,10 @@
 
 # Download & Installation 
 -------------------------
-Recommended java software version 8 or newer
+Recommended java software version 8 or newer.
+
 Download either from official websites or from repo (linux)
+
 
 java installer link Windows/macos/linux - 
 
