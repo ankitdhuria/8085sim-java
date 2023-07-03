@@ -32,4 +32,4 @@ Download the java file (.jar file)
 How to run the Program ?
 ------------------------
 Simply double clicking the program, it should run.     
-But if it opens like a zip file (if java software installed) ,then you can execute from terminal/Command prompt by typing following command "java -jar 8085Compiler.jar" (make sure you are on that directory/folder where 8085Compiler.jar file exist)
+But if it opens like a zip file (if java software installed) ,       then you can execute from terminal/Command prompt by typing following command "java -jar 8085Compiler.jar" (make sure you are on that directory/folder where 8085Compiler.jar file exist)
