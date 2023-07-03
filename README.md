@@ -1,4 +1,4 @@
-# 8085Simulator
+j# 8085Simulator
 8085 Simulator 
 
 *This is migrated project from 8085 Simulator(http://8085simulator.codeplex.com/) to github.*
@@ -10,9 +10,9 @@ Download either from official websites or from repo (linux)
 
 java installer link Windows/macos/linux - 
 
-                                           1. https://www.oracle.com/java/technologies/downloads/
+    1. https://www.oracle.com/java/technologies/downloads/
                                            
-                                           2. https://www.java.com/en/download/manual.jsp
+    2. https://www.java.com/en/download/manual.jsp
 
 
 
