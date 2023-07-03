@@ -19,7 +19,7 @@ java installer link Windows/macos/linux -
 
 Download the java file (.jar file)
 --------------------------------------
-* [./dist/8085Compiler.jar](https://github.com/jm61288/8085Simulator/raw/master/dist/8085Compiler.jar) ----> 8085 Simulator Version 2 (recent and stable Version)
+* [./dist/8085Compiler.jar](https://github.com/8085simulator/8085simulator/raw/master/dist/8085Compiler.jar) ---->(recent and stable Version)
 
 * [./8085_Documentation_latex/8085_Documentation.pdf](https://github.com/jm61288/8085Simulator/raw/master/8085_Documentation_latex/8085_Documentation.pdf) ---> Documentation
 
