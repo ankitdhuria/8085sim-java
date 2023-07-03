@@ -2,7 +2,8 @@
 8085 Simulator 
 
 *This is migrated project from 8085 Simulator(http://8085simulator.codeplex.com/) to github.*
-Download & Installation 
+
+# Download & Installation 
 -----------------------
 Recommended java version 8 or newer
 Download either from official websites or from repo (linux)
