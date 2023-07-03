@@ -4,8 +4,8 @@
 *This is migrated project from 8085 Simulator(http://8085simulator.codeplex.com/) to github.*
 
 # Download & Installation 
------------------------
-Recommended java version 8 or newer
+-------------------------
+Recommended java software version 8 or newer
 Download either from official websites or from repo (linux)
 
 java installer link Windows/macos/linux - 1. https://www.oracle.com/java/technologies/downloads/
@@ -24,9 +24,8 @@ OR
 You can execute from terminal/Command prompt by typing following command "java -jar 8085Compiler.jar"
 
 
-Download the following files as needed
+Download the java file (.jar file)
 --------------------------------------
 * [./dist/8085Compiler.jar](https://github.com/jm61288/8085Simulator/raw/master/dist/8085Compiler.jar) ----> 8085 Simulator Version 2 (recent and stable Version)
-* 8085Compiler_v1.jar  ----> 8085 Simulator Version 1 (old Version)
-* 8085Compiler_v0.jar  ----> 8085 Simulator Version 0 (obsolete Version)
+
 * [./8085_Documentation_latex/8085_Documentation.pdf](https://github.com/jm61288/8085Simulator/raw/master/8085_Documentation_latex/8085_Documentation.pdf) ---> Documentation
