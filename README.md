@@ -9,6 +9,7 @@ Recommended java software version 8 or newer
 Download either from official websites or from repo (linux)
 
 java installer link Windows/macos/linux - 1. https://www.oracle.com/java/technologies/downloads/
+                                           
                                           2. https://www.java.com/en/download/manual.jsp
 
 
