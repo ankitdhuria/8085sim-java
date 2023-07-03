@@ -10,6 +10,7 @@ But if it opens like a zip file, then you can be rest assured , that you do not 
 Then download it from the link given below.
 
 OR
+
 You can execute from terminal/Command prompt by typing following command "java -jar 8085Compiler.jar"
 
 
