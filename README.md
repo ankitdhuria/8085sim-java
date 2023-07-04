@@ -3,7 +3,7 @@
 ![image](https://github.com/ankitdhuria/8085sim-java/assets/79005349/6bc505ae-c55f-4878-a746-5afc0ffc424a)
 
 
-![image](https://github.com/ankitdhuria/8085sim-java/assets/79005349/64c76eec-8265-4252-be5b-2e030cc09d14)
+![image](https://github.com/ankitdhuria/8085sim-java/assets/79005349/62294627-6520-4d64-81bd-2a2121912ebb)
 
 # Download & Installation ( Openjdk or jre )
 ---------------------------------------------
