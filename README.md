@@ -5,8 +5,8 @@
 
 ![image](https://github.com/ankitdhuria/8085sim-java/assets/79005349/64c76eec-8265-4252-be5b-2e030cc09d14)
 
-# Download & Installation 
---------------------------
+# Download & Installation ( Openjdk or jre )
+---------------------------------------------
 Recommended java software version 8 or newer.
 
 Download either from official websites or from repository (linux)
