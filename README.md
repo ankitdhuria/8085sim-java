@@ -1,4 +1,4 @@
-.# 8085Simulator
+# 8085Simulator
 8085 Simulator By JUBIN MITRA (Original author)
 ![image](https://github.com/ankitdhuria/8085sim-java/assets/79005349/6bc505ae-c55f-4878-a746-5afc0ffc424a)
 
