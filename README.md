@@ -1,4 +1,4 @@
-# 8085Simulator
+.# 8085Simulator
 8085 Simulator By JUBIN MITRA (Original author)
 ![image](https://github.com/ankitdhuria/8085sim-java/assets/79005349/6bc505ae-c55f-4878-a746-5afc0ffc424a)
 
@@ -25,7 +25,7 @@ Download the java file (.jar file)
 --------------------------------------
 * [8085Compiler.jar](https://github.com/8085simulator/8085simulator/raw/master/dist/8085Compiler.jar) ---->(recent and stable Version)
 
-* [./8085_Documentation_latex/8085_Documentation.pdf](https://github.com/jm61288/8085Simulator/raw/master/8085_Documentation_latex/8085_Documentation.pdf) ---> Documentation
+* [8085_Documentation.pdf](https://github.com/8085simulator/8085simulator/raw/master/8085_Documentation_latex/8085_Documentation.pdf) ---> Documentation
 
 
 
